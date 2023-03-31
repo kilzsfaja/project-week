@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600;700&display=swap");
+
+body {
+  font-family: "Dancing Script", cursive;
+  font-size: x-large;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer {
+  width: 100%;
+}
+.box {
+  background-color: cornflowerblue;
+  min-height: 150px;
+  min-width: 50px;
+}
+
+.headshot {
+  height: 22rem;
+  width: 13rem;
+}
+
+.ig-logo {
+  height: 5rem;
+  width: 5rem;
+}
+
+.chat-bubble {
+  height: 5rem;
+  width: 5rem;
+}
+
+.ira-sig {
+  height: 10rem;
+  width: 10rem;
+}
+
+.table-img {
+  height: 20rem;
+  width: 15rem;
+  object-fit: cover;
+}
+
+.fixed-btn {
+  position: fixed;
+  bottom: 5%;
+  right: 5%;
+  border-radius: 25%;
+}
+
+.github-logo {
+  height: 3rem;
+  width: 3rem;
+}
+
+/* .img-menu {
+    height: 100%;
+    width: 100%;
+} */
